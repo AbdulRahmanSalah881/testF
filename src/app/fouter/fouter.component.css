@@ -1,0 +1,12 @@
+.circleIcon{
+width: 30px;
+height: 30px;
+border-radius: 50%;
+border: solid 1px white;
+background-color: #2C3E50;
+color: aliceblue;
+font-size: 15px;
+}
+.lastcoloer{
+    background-color: #2C3E50 ;
+}
